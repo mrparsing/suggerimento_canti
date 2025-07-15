@@ -253,7 +253,7 @@ def build_mass(date_str: str, colore: str = "#2a9a5c", save: bool = True) -> Dic
     hymns = suggerisci_canti(r, season)
 
     num_str = str(num) if isinstance(num, str) else f"{num:02d}"
-    title = f"{num_str} Domenica del {season} - Anno {year_letter}"
+    title = f"{to_roman(int(num_str))} Domenica del {season} - Anno {year_letter}"
 
     tempo = ""
     if "Quaresima" in season:
@@ -290,6 +290,26 @@ def build_mass(date_str: str, colore: str = "#2a9a5c", save: bool = True) -> Dic
         fname.write_text(json.dumps(mass, ensure_ascii=False, indent=2), encoding="utf-8")
         print("✚ File salvato in", fname)
     return mass
+
+def to_roman(n: int) -> str:
+    val = [
+        1000, 900, 500, 400,
+        100,  90,  50,  40,
+        10,   9,   5,   4,  1
+    ]
+    syms = [
+        "M", "CM", "D", "CD",
+        "C", "XC", "L", "XL",
+        "X", "IX", "V", "IV", "I"
+    ]
+    roman = ""
+    i = 0
+    while n > 0:
+        for _ in range(n // val[i]):
+            roman += syms[i]
+            n -= val[i]
+        i += 1
+    return roman
 
 # -------------------------------------------------------------
 #  CLI
