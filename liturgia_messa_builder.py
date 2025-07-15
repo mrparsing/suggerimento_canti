@@ -273,11 +273,14 @@ def build_mass(date_str: str, colore: str = "#2a9a5c", save: bool = True) -> Dic
         "antifona_ingresso": r["antifona"],
         "canto_ingresso": hymns.get("ingresso", ""),
         "atto_penitenziale": "Confesso a Dio onnipotente e a voi, fratelli e sorelle, che ho molto peccato in pensieri, parole, opere e omissioni, per mia colpa, mia colpa, mia grandissima colpa. E supplico la beata sempre Vergine Maria, gli angeli, i santi e voi, fratelli e sorelle, di pregare per me il Signore Dio nostro.",
+        "tropo_1": "Kyrie, eleison, <b>Kyrie, eleison</b>",
+        "tropo_2": "Chiste, eleison, <b>Chiste, eleison</b>",
+        "tropo_3": "Kyrie, eleison, <b>Kyrie, eleison</b><br>",
         "prima_lettura_testo": r["prima_lettura"],
-        "salmo_link": f"../../db/tempi_liturgici/{tempo}/salmi_anno_{year_letter}/{year_letter.lower()} {num} Visconti.pdf",
-        "salmo_testo": r["salmo"],
+        "salmo_link": f"../../db/tempi_liturgici/{tempo}/salmi_anno_{year_letter.lower()}/{year_letter} {num}.pdf",
+        "salmo_testo": formatta_salmo(r["salmo"]),
         "seconda_lettura_testo": r["seconda_lettura"],
-        "versetto_vangelo": r["versetto_vangelo"],
+        "acclamazione_al_vangelo": r["versetto_vangelo"],
         "vangelo": r["vangelo"],
         "canto_offertorio": hymns.get("offertorio", ""),
         "canto_comunione": hymns.get("comunione", ""),
@@ -290,6 +293,20 @@ def build_mass(date_str: str, colore: str = "#2a9a5c", save: bool = True) -> Dic
         fname.write_text(json.dumps(mass, ensure_ascii=False, indent=2), encoding="utf-8")
         print("✚ File salvato in", fname)
     return mass
+
+def formatta_salmo(testo: str) -> str:
+    lines = [line.strip() for line in testo.strip().split("<br>") if line.strip()]
+    
+    if len(lines) < 2:
+        return "<br>".join(lines)  # fallback, non abbastanza righe
+
+    # Ritornello = prima e seconda riga
+    ritornello = "<strong>" + "<br>".join(lines[:2]) + "</strong>"
+
+    resto = "<br>".join(lines[2:])
+
+    return ritornello + ("<br>" + resto if resto else "")
+    
 
 def to_roman(n: int) -> str:
     val = [

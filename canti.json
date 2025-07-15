@@ -32,7 +32,7 @@
             "matrimonio": true
         },
         {
-            "url_titolo": "ti-esalto,-dio-mio-re",
+            "url_titolo": "ti-esalto-dio-mio-re",
             "titolo": "Ti esalto, Dio mio Re",
             "autore": "Cavalieri, Uva",
             "tipologia": "Ingresso",
@@ -273,7 +273,7 @@
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=_h1TjZoTIIg",
             "download_link": "../../db/canti/ecco_l_acqua.pdf",
-            "testo": "",
+            "testo": "Ecco l'acqua che sgorga<br>dal santuario di Dio: Alleluia, Alleluia!<br>Acqua di salvezza e di vita.<br><br>Battezzati nell'acqua<br>battezzati nello spirito,<br>nuove creature di Dio,<br>a lui cantiamo: Alleluia, Alleluia!<br><br>Ecco l'acqua che sgorga<br>dal costato di Cristo: Alleluia, Alleluia!<br>Acqua di salvezza e di vita.<br><br>Battezzati nell'acqua...<br><br>Ecco l'acqua che sgorga<br>dalla Roccia eterna: Alleluia, Alleluia!<br>Acqua di salvezza e di vita.<br><br>Battezzati nell'acqua...",
             "matrimonio": true
         },
         {
@@ -281,7 +281,7 @@
             "titolo": "Cantate al Signore",
             "autore": "Marco Frisina",
             "tipologia": "Ingresso",
-            "tempo": "Pasqua, Qualsiasi",
+            "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=aC4c4ENu8lg",
             "download_link": "../../db/canti/cantate_al_signore.pdf",
             "testo": "<b>RIT. CANTATE AL SIGNORE, ALLELUIA,<br>BENEDITE IL SUO NOME, ALLELUIA.<br>CANTATE AL SIGNORE, ALLELUIA,<br>CON INNI DI LODE, ALLELUIA.</b><br><br>Cantate al Signore un canto nuovo,<br>da tutta la terra cantate a lui,<br>benedite per sempre il suo nome, <br>narrate alle genti la sua gloria. RIT.<br><br>Dio regna glorioso sulla terra,<br>terribile e degno di ogni lode,<br>date a lui la gloria del suo nome,<br>prostratevi alla sua maestà. RIT.<br><br>Gioiscano i cieli e la terra<br>davanti al Signore che viene,<br>egli giudica il mondo con giustizia<br>e con verità tutte le genti. RIT.",
@@ -295,7 +295,7 @@
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=02yZucu1QyI",
             "download_link": "../../db/canti/eccomi.pdf",
-            "testo": "<b>Eccomi, eccomi, Signore io vengo<br>Eccomi, eccomi, si compia in me la tua volontà.<br><br><b/>Nel mio Signore ho sperato<br>E su di me s'è chinato<br>Ha dato ascolto al mio grido<br>M'ha liberato dalla morte.<br><br><b>Eccomi, eccomi, Signore io vengo<br>Eccomi, eccomi, si compia in me la tua volontà.<br><br><b/>I miei piedi ha reso saldi<br>Sicuri ha reso i miei passi<br>Ha messo sulla mia bocca<br>Un nuovo canto di lode.<br><br><b>Eccomi, eccomi, Signore io vengo<br>Eccomi, eccomi, si compia in me la tua volontà.<br><br><b/>Il sacrificio non gradisci<br>Ma mi hai aperto l'orecchio<br>Non hai voluto olocausti<br>Allora ho detto, io vengo.<br><br><b>Eccomi, eccomi, Signore io vengo<br>Eccomi, eccomi, si compia in me la tua volontà<b/>"
+            "testo": "<b>Eccomi, eccomi, Signore io vengo<br>Eccomi, eccomi, si compia in me la tua volontà</b><br><br>Nel mio Signore ho sperato<br>E su di me s'è chinato<br>Ha dato ascolto al mio grido<br>M'ha liberato dalla morte<br><br><b>Eccomi, eccomi, Signore io vengo<br>Eccomi, eccomi, si compia in me la tua volontà</b><br><br>I miei piedi ha reso saldi<br>Sicuri ha reso i miei passi<br>Ha messo sulla mia bocca<br>Un nuovo canto di lode<br><br><b>Eccomi, eccomi, Signore io vengo<br>Eccomi, eccomi, si compia in me la tua volontà</b><br><br>Il sacrificio non gradisci<br>Ma mi hai aperto l'orecchio<br>Non hai voluto olocausti<br>Allora ho detto, io vengo<br><br><b>Eccomi, eccomi, Signore io vengo<br>Eccomi, eccomi, si compia in me la tua volontà</b><br><br>"
         },
         {
             "url_titolo": "la-vera-gioia",
@@ -316,7 +316,7 @@
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=o4TFq2nA5-E",
             "download_link": "../../db/canti/benedetto_sei_tu_signore.pdf",
-            "testo": "<b>Benedetto sei Tu, Signore<br>Benedetto il tuo santo nome<br>Alleluia, Alleluia.</b><br><br>Tu che hai fatto il cielo e la terra<br>Dio grande, Dio eccelso<br>Tu re potente, benedetto sei Tu.<br><br><b>Benedetto sei Tu, Signore<br>Benedetto il tuo santo nome<br>Alleluia, Alleluia.</b><br><br>Tu che sei nostro Salvatore<br>Tu che doni gioia e vita<br>Tu Dio Santo, benedetto sei Tu.<br><br><b>Benedetto sei Tu, Signore<br>Benedetto il tuo santo nome<br>Alleluia, Alleluia.</b><br><br>Tu che sei grande dell'amore<br>Tu Signore di misericordia<br>Contio clemente, Benedetto sei tu.<br><br><b>Benedetto sei Tu, Signore<br>Benedetto il tuo santo nome<br>Alleluia, Alleluia<br>Alleluia, Alleluia.</b>"
+            "testo": "Benedetto sei Tu, Signore<br>Benedetto il tuo santo nome<br>Alleluia, Alleluia<br><br>Tu che hai fatto il cielo e la terra<br>Dio grande, Dio eccelso<br>Tu re potente, benedetto sei Tu<br><br>Benedetto sei Tu, Signore<br>Benedetto il tuo santo nome<br>Alleluia, Alleluia<br><br>Tu che sei nostro Salvatore<br>Tu che doni gioia e vita<br>Tu Dio Santo, benedetto sei Tu<br><br>Benedetto sei Tu, Signore<br>Benedetto il tuo santo nome<br>Alleluia, Alleluia<br><br>Tu che sei grande dell'amore<br>Tu Signore di misericordia<br>Contio clemente, Benedetto sei tu<br><br>Benedetto sei Tu, Signore<br>Benedetto il tuo santo nome<br>Alleluia, Alleluia<br>Alleluia, Alleluia"
         },
         {
             "url_titolo": "ti-rendo-grazie",
@@ -347,27 +347,27 @@
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=rxXtG6anu_0",
             "download_link": "../../db/canti/se_maccogli.pdf",
-            "testo": "Tra le mani non ho niente: spero che mi accoglierai.<br>Chiedo solo di restare accanto a te.<br>Sono ricco solamente dell'amore che mi dai:<br>è per quelli che non l'hanno avuto mai.<br><br><b>Se m'accogli, mio Signore, altro non ti chiederò<br>e per sempre la tua strada la mia strada resterà.<br>Nella gioia, nel dolore, fino a quando tu vorrai<br>con la mano nella tua camminerò.</b><br><br>Io ti prego con il cuore, so che tu mi ascolterai<br>rendi forte la mia fede più che mai.<br>Tieni accesa la mia la luce fino al giorno che tu sai,<br>con i miei fratelli incontro a te verrò.<br><br><b>Se m'accogli, mio Signore, altro non ti chiederò<br>e per sempre la tua strada la mia strada resterà.<br>Nella gioia, nel dolore, fino a quando tu vorrai,<br>con la mano nella tua camminerò.</b>"
+            "testo": "Accogli i nostri doni, Dio dell'universo<br>In questo misterioso incontro col tuo Figlio<br>Ti offriamo il pane che Tu ci dai<br>Trasformalo in Te, Signor<br><br>Benedetto nei secoli il Signore<br>Infinita sorgente della vita<br>Benedetto nei secoli<br>Benedetto nei secoli<br><br>Accogli i nostri doni, Dio dell'universo<br>In questo misterioso incontro col tuo Figlio<br>Ti offriamo il vino che Tu ci dai<br>Trasformalo in Te, Signor<br><br>Benedetto nei secoli il Signore<br>Infinita sorgente della vita<br>Benedetto nei secoli<br>Benedetto nei secoli<br>Benedetto nei secoli il Signore<br>Infinita sorgente della vita<br>Benedetto nei secoli<br>Benedetto nei secoli"
         },
         {
             "url_titolo": "santa-maria-del-cammino",
             "titolo": "Santa Maria del cammino",
-            "autore": "autore 29",
+            "autore": "Juan Antonio Espinosa",
             "tipologia": "Finale",
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=dWlhPUKDfDQ",
-            "download_link": "-",
+            "download_link": "../../db/canti/santa-maria-del-cammino",
             "testo": "Mentre trascorre la vita<br>solo tu non sei mai;<br>Santa Maria del cammino<br>sempre sarà con te.<br><br><b>Vieni, o Madre, in mezzo a noi,<br>vieni Maria quaggiù.<br>Cammineremo insieme a te<br>verso la libertà.</b><br><br>Quando qualcuno ti dice:<br>\"Nulla mai cambierà\",<br>lotta per un mondo nuovo,<br>lotta per la verità!<br><br>Lungo la strada la gente<br>chiusa in se stessa va;<br>offri per primo la mano<br>a chi è vicino a te.<br><br>Quando ti senti ormai stanco<br>e sembra inutile andar,<br>tu vai tracciando un cammino:<br>un altro ti seguirà.<br><br>Ave, o piena di grazia,<br>il Signore è con te.<br>Ecco l’ancella di Dio,<br>opera Tu in me.<br><br>La tua risposta, Maria,<br>diede a noi Gesù;<br>ciò che tu avevi creduto<br>ecco si avverò.<br><br>Tu sei la luce a chi crede<br>nel Figlio tuo Gesù.<br>Tu sei speranza e certezza<br>che Lui ci cambierà."
         },
         {
             "url_titolo": "giovanni",
             "titolo": "Giovanni",
-            "autore": "Frisina",
+            "autore": "Marco Frisina",
             "tipologia": "Comunione",
             "tempo": "Qualsiasi",
-            "ascolta": "https://www.youtube.com/watch?v=UpVDjcHduC8",
-            "download_link": "../../db/canti/santa_maria_del_cammino.pdf",
-            "testo": "Voce di uno che grida nel deserto:<br>\"Convertitevi, il regno è qui.<br>Preparate la via del Signore, <br>raddrizzate i suoi sentieri\".<br><br><b>RIT. ALLELUJA, ALLELUJA,<br>VIENE IL SIGNORE, ALLELUJA.<br>PREPARATE UNA STRADA NEL DESERTO,<br>PER IL SIGNORE CHE VIENE.</b><br><br>E venne un uomo e il suo nome era Giovanni,<br>lui testimone della luce di Dio;<br>come una lampada che rischiara il buio,<br>egli arde nell'oscurità. RIT.<br><br>Ecco io mando il mio messaggero<br>dinanzi a me, per prepararmi la via,<br>per ricondurre i padri verso i figli,<br>con lo spirito di Elia. RIT."
+            "ascolta": "https://www.youtube.com/watch?v=P5SVJIUSmjA",
+            "download_link": "../../db/canti/-",
+            "testo": "Voce di uno che grida nel deserto:<br>\"Convertitevi, il regno è qui.<br>Preparate la via del Signore,<br>raddrizzate i suoi sentieri\".<br><br><b>RIT. ALLELUJA, ALLELUJA,<br>VIENE IL SIGNORE, ALLELUJA.<br>PREPARATE UNA STRADA  NEL DESERTO,<br>PER IL SIGNORE CHE VIENE.</b><br><br>E venne un uomo e il suo nome era Giovanni,<br>lui testimone della luce di Dio;<br>come una lampada che rischiara il buio,<br>egli arde nell'oscurità.<br><br>RIT.<br><br>Ecco io mando il mio messaggero<br>dinanzi a me, per prepararmi la via,<br>per ricondurre i padri verso i figli,<br>con lo spirito di Elia.<br><br>RIT."
         },
         {
             "url_titolo": "alleluia-gregoriano",
@@ -388,7 +388,7 @@
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=jl6VcCyf-0g",
             "download_link": "../../db/canti/riuniti.pdf",
-            "testo": "<b>Riuniti nel nome del Signor,<br>che ci ha radunati al suo altar,<br>celebriamo il misero della fede,<br>che ci unisce sotto il segno dell’amor.<br>Celebriamo il misero della fede,<br>che ci unisce sotto il segno dell’amor.</b><br><br>Tu Signore dai senso alla vita,<br>la tua presenza ci aiuta a camminar,<br>la tua parola è fonte d’acqua viva,<br>preparata per noi alla tua mensa,<br>per noi che siamo qui.<br><br>Rendi pure Signor le nostre mani,<br>la tua luce illumini la mente,<br>che la fede si riaccenda alla parola,<br>e il tuo corpo assunto in nutrimento<br>ci ottenga la salvezza."
+            "testo": "Riuniti nel nome del Signor,<br>che ci ha radunati al suo altar,<br>celebriamo il misero della fede,<br>che ci unisce sotto il segno dell’amor.<br>Celebriamo il misero della fede,<br>che ci unisce sotto il segno dell’amor.<br><br>1. Tu Signore dai senso alla vita,<br>la tua presenza ci aiuta a camminar,<br>la tua parola è fonte d’acqua viva,<br>preparata per noi alla tua mensa,<br>per noi che siamo qui.<br><br>2. Rendi pure Signor le nostre mani,<br>la tua luce illumini la mente,<br>che la fede si riaccenda alla parola,<br>e il tuo corpo assunto in nutrimento<br>ci ottenga la salvezza."
         },
         {
             "url_titolo": "alleluia-io-sono-il-pane-vivo",
@@ -405,10 +405,10 @@
             "titolo": "Dio si è fatto come noi",
             "autore": "",
             "tipologia": "Comunione",
-            "tempo": "Natale",
+            "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=vmaIvtnNBH4",
-            "download_link": "",
-            "testo": "Dio s’è fatto come noi<br>Per farci come lui<br><b>Vieni Gesù<br>Resta con noi<br>Resta con noi</b><br>Viene dal grembo di una donna<br>La Vergine Maria<br><b>Vieni Gesù<br>Resta con noi<br>Resta con noi</b><br>Tutta la storia l’aspettava<br>Il nostro Salvatore<br><b>Vieni Gesù<br>Resta con noi<br>Resta con noi</b><br>Egli era un uomo come noi<br>E ci ha chiamato amici<br><b>Vieni Gesù<br>Resta con noi<br>Resta con noi</b><br>Egli ci ha dato la sua vita<br>Insieme a questo pane<br><b>Vieni Gesù<br>Resta con noi<br>Resta con noi</b><br>Noi che mangiamo questo pane<br>Saremo tutti amici<br><b>Vieni Gesù<br>Resta con noi<br>Resta con noi</b><br>Noi che crediamo nel suo amore<br>Vedremo la sua gloria<br><b>Vieni Gesù<br>Resta con noi<br>Resta con noi</b><br>Vieni Signore in mezzo a noi<br>Resta con noi per sempre<br><b>Vieni Gesù<br>Resta con noi<br>Resta con noi</b>"
+            "download_link": "../../db/canti/dio-si-e-fatto-come-noi.pdf",
+            "testo": "Dio s’è fatto come noi<br>Per farci come lui<br><br>Vieni Gesù<br>Resta con noi<br>Resta con noi<br><br>Viene dal grembo di una donna<br>La Vergine Maria<br><br>Vieni Gesù<br>Resta con noi<br>Resta con noi<br><br>Tutta la storia l’aspettava<br>Il nostro Salvatore<br><br>Vieni Gesù<br>Resta con noi<br>Resta con noi<br><br>Egli era un uomo come noi<br>E ci ha chiamato amici<br><br>Vieni Gesù<br>Resta con noi<br>Resta con noi<br><br>Egli ci ha dato la sua vita<br>Insieme a questo pane<br><br>Vieni Gesù<br>Resta con noi<br>Resta con noi<br><br>Noi che mangiamo questo pane<br>Saremo tutti amici<br><br>Vieni Gesù<br>Resta con noi<br>Resta con noi<br><br>Noi che crediamo nel suo amore<br>Vedremo la sua gloria<br><br>Vieni Gesù<br>Resta con noi<br>Resta con noi<br><br>Vieni Signore in mezzo a noi<br>Resta con noi per sempre<br><br>Vieni Gesù<br>Resta con noi<br>Resta con noi"
         },
         {
             "url_titolo": "noi-veniamo-a-te",
@@ -418,7 +418,7 @@
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=whxxX-YI1vA",
             "download_link": "../../db/canti/Vita nuova con te.pdf",
-            "testo": "<b>Noi veniamo a Te, ti seguiamo, Signor<br>Solo Tu hai parole di vita<br>E rinascerà dall'incontro con Te<br>Una nuova umanità</b><br><br>Tu, maestro degli uomini<br>Tu ci chiami all'ascolto<br>E rinnovi con noi<br>L'alleanza d'amore infinito<br><br><b>Noi veniamo a Te, ti seguiamo, Signor<br>Solo Tu hai parole di vita<br>E rinascerà dall'incontro con Te<br>Una nuova umanità</b><br><br>Tu, speranza degli uomini<br>Tu ci apri alla vita<br>E rinnovi per noi<br>La promessa del mondo futuro<br><br><b>Noi veniamo a Te, ti seguiamo, Signor<br>Solo Tu hai parole di vita<br>E rinascerà dall'incontro con Te<br>Una nuova umanità</b><br><br>Tu, amico degli uomini<br>Tu ci chiami fratelli<br>E rivivi con noi<br>L'avventura di un nuovo cammino<br><br><b>Noi veniamo a Te, ti seguiamo, Signor<br>Solo Tu hai parole di vita<br>E rinascerà dall'incontro con Te<br>Una nuova umanità</b><br><br>Tu, salvezza degli uomini<br>Tu rinnovi la festa<br>E ci chiami da sempre<br>Ad aprire le porte del cuore<br><br><b>Noi veniamo a Te, ti seguiamo, Signor<br>Solo Tu hai parole di vita<br>E rinascerà dall'incontro con Te<br>Una nuova umanità</b><br><br>"
+            "testo": "Noi veniamo a Te, ti seguiamo, Signor<br>Solo Tu hai parole di vita<br>E rinascerà dall'incontro con Te<br>Una nuova umanità<br><br>Tu, maestro degli uomini<br>Tu ci chiami all'ascolto<br>E rinnovi con noi<br>L'alleanza d'amore infinito<br><br>Noi veniamo a Te, ti seguiamo, Signor<br>Solo Tu hai parole di vita<br>E rinascerà dall'incontro con Te<br>Una nuova umanità<br><br>Tu, speranza degli uomini<br>Tu ci apri alla vita<br>E rinnovi per noi<br>La promessa del mondo futuro<br><br>Noi veniamo a Te, ti seguiamo, Signor<br>Solo Tu hai parole di vita<br>E rinascerà dall'incontro con Te<br>Una nuova umanità<br><br>Tu, amico degli uomini<br>Tu ci chiami fratelli<br>E rivivi con noi<br>L'avventura di un nuovo cammino<br><br>Noi veniamo a Te, ti seguiamo, Signor<br>Solo Tu hai parole di vita<br>E rinascerà dall'incontro con Te<br>Una nuova umanità<br><br>Tu, salvezza degli uomini<br>Tu rinnovi la festa<br>E ci chiami da sempre<br>Ad aprire le porte del cuore<br><br>Noi veniamo a Te, ti seguiamo, Signor<br>Solo Tu hai parole di vita<br>E rinascerà dall'incontro con Te<br>Una nuova umanità"
         },
         {
             "url_titolo": "tu-sarai-profeta",
@@ -428,17 +428,17 @@
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=prmJAumI5y8",
             "download_link": "../../db/canti/tu_sarai_profeta.pdf",
-            "testo": "Una luce che rischiara,<br>una lampada che arde,<br>una voce che proclama<br>la Parola di salvezza.<br><br>Precursore nella gioia,<br>precursore nel dolore,<br>tu che sveli nel perdono<br>l'annunzio di misericordia.<br><br><b>RIT. TU SARI PROFETA DI SALVEZZA<br>FINO AI CONFINI DELLA TERRA,<br>PORTERAI LA MIA PAROLA,<br>RISPLENDERAI DELLA MIA LUCE.</b><br><br>Forte amico dello Sposo che gioisci alla sua voce,<br>tu cammini per il mondo<br>per precedere il Signore.<br><br>Stenderò la mia mano<br>e porrò sulla tua bocca<br>la potente mia Parola<br>che convertirà il mondo. RIT."
+            "testo": "Una luce che rischiara,<br>una lampada che arde,<br>una voce che proclama<br>la Parola di salvezza.<br><br>Precursore nella gioia,<br>precursore nel dolore,<br>tu che sveli nel perdono<br>l'annunzio di misericordia.<br><br><b>RIT. TU SARI PROFETA DI SALVEZZA<br>FINO AI CONFINI DELLA TERRA,<br>PORTERAI LA MIA PAROLA,<br>RISPLENDERAI DELLA MIA LUCE.</b><br><br>Forte amico dello Sposo<br>che gioisci alla sua voce,<br>tu cammini per il mondo<br>per precedere il Signore.<br><br>Stenderò la mia mano<br>e porrò sulla tua bocca<br>la potente mia Parola<br>che convertirà il mondo. RIT."
         },
         {
             "url_titolo": "la-vera-vite",
             "titolo": "La vera Vite",
             "autore": "Marco Frisina",
             "tipologia": "Comunione",
-            "tempo": "Pasqua, Qualsiasi",
+            "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=yvy-9GH-7ZU",
             "download_link": "../../db/canti/la_vera_vite.pdf",
-            "testo": "Io son la vite, voi siete i tralci<br>Restate in me, porterete frutto<br>Io son la vite, voi siete i tralci<br>Restate in me, porterete frutto.<br><br>Come il Padre ha amato me<br>Così io ho amato voi<br>Restate nel mio amore<br>Perché la gioia sia piena.<br><br>Io son la vite, voi siete i tralci<br>Restate in me, porterete frutto.<br><br>Voi come tralci innestati in me<br>Vivete tutti nell'unità<br>Unica in voi è la vita<br>Unico in voi è l'amore.<br><br>Io son la vite, voi siete i tralci<br>Restate in me, porterete frutto.<br><br>Il tralcio buono che porterà<br>Frutti d'amore vivendo in me<br>Il Padre mio lo poterà<br>Perché migliore sia il frutto.<br><br>Io son la vite, voi siete i tralci<br>Restate in me, porterete frutto."
+            "testo": "Io son la vite, voi siete i tralci<br>Restate in me, porterete frutto<br>Io son la vite, voi siete i tralci<br>Restate in me, porterete frutto<br><br>Come il Padre ha amato me<br>Così io ho amato voi<br>Restate nel mio amore<br>Perché la gioia sia piena<br><br><b>Io son la vite, voi siete i tralci<br>Restate in me, porterete frutto</b><br><br>Voi come tralci innestati in me<br>Vivete tutti nell'unità<br>Unica in voi è la vita<br>Unico in voi è l'amore<br><br><b>Io son la vite, voi siete i tralci<br>Restate in me, porterete frutto</b><br><br>Il tralcio buono che porterà<br>Frutti d'amore vivendo in me<br>Il Padre mio lo poterà<br>Perché migliore sia il frutto<br><br><b>Io son la vite, voi siete i tralci<br>Restate in me, porterete frutto</b>"
         },
         {
             "url_titolo": "io-sarò-con-te",
@@ -448,17 +448,17 @@
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=oWtdlQAaOCE",
             "download_link": "",
-            "testo": "Guardami, Signore, sono povero e solo,<br>come potrò annunciare la tua volontà.<br>Tu, Signore, hai detto: farò di te il mio servo.<br>Come saprò gridare la tua verità?<br><br><b>Io sarò con te,come luce che ti guida,<br>io sarò la tua voce, la tua forza,<br>io sarò la tua difesa, la tua salvezza.</b><br><br>Chiuso è il mio labbro, la mia lingua è impacciata,<br>apri la mia bocca ed io canterò.<br>Trema il mio cuore, la mia forza m'abbandona,<br>stendi la tua mano ed io non temerò. RIT.<br><br>Sento il tuo coraggio, la tua forza mi sostiene,<br>insegnerò al tuo popolo la vera libertà.<br>Sento la tua mano che mi guida nel cammino,<br>sarò profeta e guida per chi ti cercherà. RIT."
+            "testo": "Guardami, Signore, sono povero e solo,<br>come potrò annunciare la tua volontà.<br>Tu, Signore, hai detto: farò di te il mio servo.<br>Come saprò gridare la tua verità?<br><br><b>Io sarò con te,come luce che ti guida,<br>io sarò la tua voce, la tua forza,<br>io sarò la tua difesa, la tua salvezza.</b><br><br>Chiuso è il mio labbro, la mia lingua è impacciata,<br>apri la mia bocca ed io canterò.<br>Trema il mio cuore, la mia forza m'abbandona,<br>stendi la tua mano ed io non temerò.<br><b>Io sarò con te,come luce che ti guida…</b><br><br>Sento il tuo coraggio, la tua forza mi sostiene,<br>insegnerò al tuo popolo la vera libertà.<br>Sento la tua mano che mi guida nel cammino,<br>sarò profeta e guida per chi ti cercherà.<br><br><b>Io sarò con te,come luce che ti guida…</b>"
         },
         {
-            "url_titolo": "è-l'ora-che-pia",
+            "url_titolo": "è-l-ora-che-pia",
             "titolo": "E' l'ora che pia",
             "autore": "",
             "tipologia": "Finale",
             "tempo": "Mariano",
             "ascolta": "https://www.youtube.com/watch?v=r4jj3wy5qCo",
             "download_link": "../../db/canti/è_lora_che_pia.pdf",
-            "testo": "E' l'ora che pia la squilla fedel<br>le note c'invia dell'Ave del ciel.<br><br><b>Ave, ave, ave Maria!<br>Ave, ave, ave Maria!</b>E' l'ora più bella che suona nel cor,<br>che mite favella di pace e d'amor.<br><br>Discenda la sera o rida il mattin,<br>ci chiama a preghiera il suono divin.<br><br>E l'onda sonora a Satana ostil,<br>esulta ed onora la Vergine umil.<br><br>Noi pur t'onoriamo o madre d'amor<br>noi pur t'ascoltiamo purissimo fior.<br><br>Esalta l'ancella del grande Signor<br>la mistica stella dell'almo splendor.<br><br>[Con gli angeli oranti sul nitido pian<br>del Gave il sussurro ripete lontan.<br><br>La pia Benedetta sul chiaro ruscel<br>radiosa s’affretta in luce di ciel.<br><br>Un’aura l’investe sul muto sentier<br>di grazia celeste le annuncia il mister.<br><br>La Vergine bella la Madre d’amor<br>nell’antro risplende di vivo baglior.<br><br>Dal braccio le pende dell’Ave il tesor<br>che immagine rende d’un serto di fior.<br><br>La pia fanciulletta si sente smarrir<br>ma il cielo, beata, le par di salir.<br><br>La bianca Signora l’invita a tornar<br>dinanzi alla grotta pel mondo a pregar."
+            "testo": "È l’ora che pia la squilla fedel,<br>le note c’invia dell’Ave del ciel.<br><br><b>Ave, ave, ave, Maria!<br>Ave, ave, ave, Maria!</b><br><br>Nel piano di Dio l’eletta sei tu,<br>che porti nel mondo il Figlio Gesù.<br><br>A te, Immacolata, la lode, l’amor:<br>tu doni alla Chiesa il tuo Salvator.<br><br>Di tutti i malati solleva il dolor,<br>consola chi soffre nel corpo e nel cuor.<br><br>Proteggi il cammino di un popol fedel<br>ottieni ai tuoi figli di giungere al ciel.<br><br>Un giorno lontano l’attesa finì:<br>un angelo santo l’annuncio portò.<br><br>In grembo alla Madre il bimbo esultò:<br>Giovanni Battista annunciava Gesù.<br><br>Magnifico inno Maria cantò:<br>l’antica promessa per lei si compì.<br><br>Gioisci, Maria, è Dio con te:<br>il Figlio che nasce si chiama Gesù.<br><br>La giovane Madre a Cana pregò:<br>un segno d’amore Gesù rivelò.<br><br>Il Figlio morendo la Madre pregò:<br>“L’amico che lascio sia figlio per te!”<br><br>Il Cristo risorto è vita per noi:<br>Maria ci insegna a viver per lui."
         },
         {
             "url_titolo": "lodate-dio",
@@ -468,7 +468,7 @@
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=FkkfCF-cY9k",
             "download_link": "../../db/canti/lodate_dio.pdf",
-            "testo": "Lodate Dio, schiere beate del cielo.<br>Lodate Dio, genti di tutta la terra.<br>Cantate a Lui, che l'universo creò,<br>somma sapienza e splendore.<br><br>Lodate Dio, Padre che dona ogni bene.<br>Lodate Dio, ricco di grazia e perdono.<br>Cantate a Lui, che tanto gli uomini amò<br>da dare l'unico Figlio.<br><br>Lodate Dio, uno e trino Signore.<br>Lodate Dio, meta e premio dei buoni.<br>Cantate a Lui, sorgente d'ogni bontà,<br>per tutti i secoli. Amen.<br><br>Lode all'Altissimo, lode al SIgnor della gloria.<br>Al re dei secoli forza,onore e vittoria.<br>Cantate a Lui, tutti acclamate con noi,<br>cielo e terra esultate.<br><br>Lode all'Altissimo, re dell'immenso creato:<br>con ali d'aquila tutti i suoi figli ha portato.<br>Ci guiderà, ed ogni uomo saprà<br>quanto è grande il suo amore.<br><br>Lode all'Altissimo, che a noi dal cielo ha parlato,<br>e per gli uomini l'unico Figlio ha donato.<br>Morto per noi, Cristo ci chiama con Lui<br>oltre il peccato e la morte.<br><br>Lode all'Altissimo, Padre di grazia infinita,<br>che dona agli umili pace, benessere, vita.<br>Dio regnerà, e tutto a lui canterà<br>gloria nei secoli. Amen."
+            "testo": "Lodate Dio, schiere beate del cielo,<br>lodate Dio, genti di tutta la terra: cantate a lui,<br>che l'universo creò,<br>somma sapienza e splendore.<br><br>Lodate Dio, Padre che dona ogni bene,<br>lodate Dio, ricco di grazia e perdono:<br>cantate a lui, che tanto gli uomini amò,<br>da dare l'unico Figlio.<br><br>Lodate Dio, uno e trino Signore,<br>lodate Dio, meta e premio dei buoni:<br>cantate a lui, sorgente d'ogni bontà,<br>per tutti i secoli. Amen."
         },
         {
             "url_titolo": "lo-spirito-del-signore",
@@ -488,20 +488,20 @@
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=5EDUSqs3_zU",
             "download_link": "../../db/canti/il_tuo_popolo_in_cammino.pdf",
-            "testo": "Il tuo popolo in cammino<br>Cerca in te la guida<br>Sulla strada verso il regno<br>Sei sostegno col tuo corpo<br>Resta sempre con noi o Signore<br><br>È il tuo pane Gesù<br>Che ci dà forza<br>E rende più sicuro il nostro passo<br>Se il vigore del cammino si svilisce<br>La tua mano dona lieta la speranza<br><br>Il tuo popolo in cammino<br>Cerca in te la guida<br>Sulla strada verso il regno<br>Sei sostegno col tuo corpo<br>Resta sempre con noi o Signore<br><br>È il tuo vino Gesù che ci disseta<br>E risveglia in noi l'ardore di seguirti<br>Se la gioia cede il passo alla stanchezza<br>La tua voce fa rinascere freschezza<br><br>Il tuo popolo in cammino<br>Cerca in te la guida<br>Sulla strada verso il regno<br>Sei sostegno col tuo corpo<br>Resta sempre con noi o Signore<br><br>È il tuo corpo Gesù che ci fa Chiesa<br>Fratelli sulle strade della vita<br>Se il rancore toglie luce all'amicizia<br>Dal tuo cuore nasce giovane il perdono<br><br>Il tuo popolo in cammino<br>Cerca in te la guida<br>Sulla strada verso il regno<br>Sei sostegno col tuo corpo<br>Resta sempre con noi o Signore<br><br>È il tuo sangue Gesù<br>Il segno eterno dell'unico linguaggio dell'amore<br>Se il donarsi come te richiede fede<br>Nel Tuo Spirito sfidiamo l'incertezza<br><br>Il tuo popolo in cammino<br>Cerca in te la guida<br>Sulla strada verso il regno<br>Sei sostegno col tuo corpo<br>Resta sempre con noi o Signore<br><br>È il tuo dono Gesù la vera fonte<br>Del gesto coraggioso di chi annuncia<br>Se la Chiesa non è aperta ad ogni uomo<br>Il tuo fuoco le rivela la missione<br><br>Il tuo popolo in cammino<br>Cerca in te la guida<br>Sulla strada verso il regno<br>Sei sostegno col tuo corpo<br>Resta sempre con noi o Signore"
+            "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "accogli-i-nostri-doni",
             "titolo": "Accogli i nostri doni",
             "autore": "Buttazzo",
             "tipologia": "Offertorio",
             "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=ckeCH4Wclpw",
             "download_link": "../../db/canti/accogli_i_nostri_doni.pdf",
-            "testo": "Accogli i nostri doni, Dio dell'universo<br>In questo misterioso incontro col tuo Figlio<br>Ti offriamo il pane che Tu ci dai<br>Trasformalo in Te, Signor<br><br>Benedetto nei secoli il Signore<br>Infinita sorgente della vita<br>Benedetto nei secoli<br>Benedetto nei secoli<br><br>Accogli i nostri doni, Dio dell'universo<br>In questo misterioso incontro col tuo Figlio<br>Ti offriamo il vino che Tu ci dai<br>Trasformalo in Te, Signor<br><br>Benedetto nei secoli il Signore<br>Infinita sorgente della vita<br>Benedetto nei secoli<br>Benedetto nei secoli<br>Benedetto nei secoli il Signore<br>Infinita sorgente della vita<br>Benedetto nei secoli<br>Benedetto nei secoli"
+            "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "lampada-per-i-miei-passi",
             "titolo": "Lampada per i miei passi",
             "autore": "Marco Frisina",
             "tipologia": "Comunione",
@@ -511,7 +511,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "o-sion-loda-il-salvatore",
             "titolo": "O Sion loda il Salvatore",
             "autore": "Marco Frisina",
             "tipologia": "Sequenza",
@@ -521,7 +521,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "e-asceso-alla-gloria",
             "titolo": "E' asceso alla gloria",
             "autore": "Coro Rabbuini",
             "tipologia": "Ingresso, Offertorio, Comunione",
@@ -531,37 +531,37 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "questo-e-il-mio-comandamento",
             "titolo": "Questo è il mio comandamento",
             "autore": "Marco Frisina",
             "tipologia": "Comunione",
-            "tempo": "Pasqua, Qualsiasi",
+            "tempo": "Qualsiasi",
             "ascolta": "https://www.youtube.com/watch?v=4hvAR40wjfs",
             "download_link": "../../db/canti/questo_è_il_mio_comandamento.pdf",
-            "testo": "Questo è il mio comandamento<br>Che vi amiate<br>Come io ho amato voi<br>Come io ho amato voi<br><br>Nessuno ha un amore più grande<br>Di chi dà la vita per gli amici<br>Voi siete miei amici<br>Se farete ciò che vi dirò<br><br>Questo è il mio comandamento<br>Che vi amiate<br>Come io ho amato voi<br>Come io ho amato voi<br><br>Il servo non sa ancora amare<br>Ma io v'ho chiamato miei amici<br>Rimanete nel mio amore<br>Ed amate il Padre come me<br><br>Questo è il mio comandamento<br>Che vi amiate<br>Come io ho amato voi<br>Come io ho amato voi<br><br>Io pregherò il Padre per voi<br>E darà a voi il Consolatore<br>Che rimanga sempre in voi<br>E vi guidi nella carità<br><br>Questo è il mio comandamento<br>Che vi amiate<br>Come io ho amato voi<br>Come io ho amato voi"
+            "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "cristo-nostra-pasqua",
             "titolo": "Cristo nostra Pasqua",
             "autore": "Antonio Parisi",
             "tipologia": "Ingresso, Offertorio, Comunione",
             "tempo": "Pasqua",
             "ascolta": "https://www.youtube.com/watch?v=ua-Vwlug9M8",
             "download_link": "../../db/canti/cristo_nostra_pasqua.pdf",
-            "testo": "1. E’ la Pasqua del Signore,<br>nuova vita nasce già.<br>E' l'agnello immolato<br>che ci dona libertà.<br><br><b>Cristo nostra Pasqua<br>è stato immolato: <br>celebriamo la sua festa<br>in purez za e verità. <br>Alleluia, alleluia! <br>Alleluia, alleluia! </b><br><br>2. E' risorto il buon Pastore,<br>nuova mensa è pronta già.<br>Alla cena del Signore<br>ritroviamo l'unità.<br><br>3. E' risorto il Vivente,<br>nuova festa inizia già.<br>Nel Signore risorgiamo<br>figli dell'eternità."
+            "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "la-mia-pasqua-e-il-signore",
             "titolo": "La mia Pasqua è il Signore",
             "autore": "Anna Maria Galliano, Rino Farruggio",
             "tipologia": "Comunione",
             "tempo": "Pasqua",
             "ascolta": "https://www.youtube.com/watch?v=YjXi5iRvn2M",
             "download_link": "../../db/canti/la_mia_pasqua_è_il_signore.pdf",
-            "testo": "<b>La mia Pasqua è il Signore, a lui voglio cantare.<br>La mia Pasqua è il Signore, a Lui voglio cantare.<br>Pane bianco spezzato, vino dolce versato<br>per amore, per amore. Alleluia.<b><br><br>Mia Pasqua è il Signore, con lui passo il mare: <br>la sua destra è forte, affonda la morte,<br>risveglia la vita nel fondo del cuore, risveglia la vita. <br><br>La marcia nel deserto con lui è sicura: <br>il Signore è la Roccia, lui dà l'acqua viva,<br>la mensa prepara a un popolo nuovo, la mensa prepara. <br><br>La notte della storia con lui è un'aurora: <br>il Signore è la Luce, la strada rischiara;<br>la Chiesa cammina nel mondo che ama, la Chiesa cammina.<br><br>La lotta contro il male con lui non fa paura: <br>il Signore è l'Amore con noi nella prova, <br>la fede rinnova nell'uomo che soffre, la fede rinnova.<br><br>E l'ora dell'attesa con lui è preziosa: <br>il Signore è lo Spirito in cuore alla Chiesa,<br>soave presenza che dona speranza, soave presenza."
+            "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "hosanna",
             "titolo": "Hosanna",
             "autore": "Marco Frisina",
             "tipologia": "Ingresso",
@@ -571,7 +571,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "o-dio-tu-sei-il-mio-dio",
             "titolo": "O Dio, Tu sei il mio Dio",
             "autore": "Marco Frisina",
             "tipologia": "Offertorio, Comunione",
@@ -601,7 +601,7 @@
             "testo": "M'invocherà e io l'esaudirò<br>A lui darò la gloria del mio nome<br>E l'albero che reca la condanna sarà dissolto in lui.<br><br>Sconfiggerà la morte ed il peccato<br>Il nuovo Adamo, figlio prediletto<br>Sarà suo cibo fare il mio volere e abbonderà la vita.<br><br>Io manderò gli angeli a guidarlo<br>Lo porteranno sulle loro mani<br>Non urterà il suo piede contro il sasso e gli darò la gloria.<br><br>Adorerai il Signore, tuo Dio<br>E Gesù Cristo mosso dallo Spirito<br>A dare prova del suo amore immenso, il Santo dato a noi."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "ti-seguiro",
             "titolo": "Ti seguirò",
             "autore": "Marco Frisina",
             "tipologia": "Comunione",
@@ -611,7 +611,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "tu-scendi-dalle-stelle",
             "titolo": "Tu scendi dalle stelle",
             "autore": "",
             "tipologia": "Ingresso, Finale",
@@ -621,7 +621,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "adeste-fideles",
             "titolo": "Adeste Fideles",
             "autore": "-",
             "tipologia": "Ingresso, Offertorio, Comunione",
@@ -631,7 +631,7 @@
             "testo": "Adeste fideles læti triumphantes,<br>venite, venite in Bethlehem.<br>Natum videte Regem angelorum.<br>Venite adoremus (ter)<br>Dominum.<br><br>En grege relicto humiles ad cunas,<br>vocati pastores adproperant,<br>et nos ovanti gradu festinemus.<br>Venite adoremus (ter)<br>Dominum.<br><br>Æterni Parentis splendorem æternum,<br>velatum sub carne videbimus,<br>Deum infantem pannis involutum.<br>Venite adoremus (ter)<br>Dominum.<br><br>Pro nobis egenum et fœno cubantem<br>piis foveamus amplexibus;<br>sic nos amantem quis non redamaret?<br>Venite adoremus (ter)<br>Dominum."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "vieni-signore",
             "titolo": "Vieni Signore",
             "autore": "Daniele Semprini",
             "tipologia": "Comunione",
@@ -641,7 +641,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "camminiamo-incontro-al-signore",
             "titolo": "Camminiamo incontro al Signore",
             "autore": "Daniele Semprini",
             "tipologia": "Comunione",
@@ -651,7 +651,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "maria-porta-dell-avvento",
             "titolo": "Maria porta dell'Avvento",
             "autore": "Daniele Semprini",
             "tipologia": "Comunione",
@@ -661,7 +661,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "re-di-gloria",
             "titolo": "Re di Gloria",
             "autore": "F. Marranzino - A. De Luca",
             "tipologia": "Comunione",
@@ -671,7 +671,7 @@
             "testo": "Ho incontrato te, Gesù,<br>e ogni cosa in me è cambiata,<br>tutta la mia vita ora ti appartiene<br>tutto il mio passato io lo affido a te,<br>Gesù, Re di gloria, mio Signor.<br><br>Tutto in te riposa,<br>la mia mente, il mio cuore,<br>trovo pace in te Signor tu mi dai la gioia.<br>Voglio stare insieme a te, non lasciarti mai,<br>Gesù, Re di gloria, mio Signor.<br><br>Dal tuo amore chi mi separerà,<br>sulla croce hai dato la vita per me.<br>Una corona di gloria mi darai<br>quando un giorno ti vedrò.<br><br>Tutto in te riposa,<br>la mia mente, il mio cuore,<br>trovo pace in te, Signor,<br>tu mi dai la gioia vera.<br>Voglio stare insieme a te,<br>non lasciarti mai Gesù,<br>Re di gloria, mio Signor.<br><br>Dal tuo amore chi mi separerà...<br><br>Dal tuo amore chi mi separerà.<br>Io ti aspetto, mio Signor,<br>Io ti aspetto, mio Signor,<br>io ti aspetto, mio Re!<br>"
         },
         {
-            "url_titolo": "",
+            "url_titolo": "dov-e-carita-e-amore",
             "titolo": "Dov'è carita e amore",
             "autore": "T. Zardini",
             "tipologia": "Offertorio",
@@ -681,7 +681,7 @@
             "testo": "<b>RIT. Dov'è Carità e Amore, qui c'è Dio.</b><br><br>Ci ha riuniti tutti insieme Cristo, Amore:<br>godiamo esultanti nel Signore!<br>Temiamo ed amiamo il Dio vivente<br>e amiamoci tra noi con cuore sincero.<br><br>Noi formiamo qui riuniti un solo corpo,<br>evitiamo di dividerci tra noi.<br>Via le lotte maligne, via le liti!<br>E regni in mezzo a noi Cristo Dio.<br><br>Chi non ama resta sempre nella notte<br>e dall'ombra della morte non risorge:<br>ma se noi camminiamo nell'Amore,<br>noi saremo veri figli della Luce.<br><br>Nell'amore di Colui che ci ha salvato,<br>rinnovati dallo Spirito del Padre,<br>tutti insieme sentiamoci Fratelli<br>e la Gioia diffondiamo sulla terra.<br><br>Imploriamo con fiducia il Padre Santo<br>perché doni ai nostri giorni la Sua Pace:<br>ogni popol dimentichi i rancori,<br>ed il mondo si rinnovi nell'Amore.<br><br>Fa' che un giorno contempliamo il Tuo volto<br> nella gloria dei beati, Cristo Dio.<br>E sarà gioia immensa, gioia vera:<br>durerà per tutti i secoli, senza fine.<br><br>Sommo bene Iddio Signore ci ha donato<br>tra gli uomini inviando il suo amore,<br>in cui ha compimento il patto antico,<br>e nel quale noi vediamo la nuova legge."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "ave-maris-stella",
             "titolo": "Ave Maris Stella",
             "autore": "Sconosciuto",
             "tipologia": "Ingresso",
@@ -691,7 +691,7 @@
             "testo": "Ave, maris stella,<br>Dei mater alma<br>atque semper virgo,<br>felix coeli porta!<br><br>Sumens illud Ave,<br>Gabrielis ore,<br>funda nos in pace,<br>mutans Evæ nomen.<br><br>Solve vincla reis,<br>profer lumen caecis,<br>mala nostra pelle,<br>bona cuncta poscie.<br><br>Monstra te esse Matrem,<br>sumat per te precem<br>Qui, pro nobis natus,<br>tulit esse tuus.<br><br>Virgo sungularis,<br>inter omnes mitis,<br>nos, culpis solutos,<br>mites fac et castos.<br><br>Vitam præsta puram,<br>iter para tutum<br>ut, videntes Jesum,<br>sempre collætemur.<br><br>Sit laus Deo Patri<br>summo Christo decus<br>Spiritui Sancto,<br>Tribus honor unus. Amen"
         },
         {
-            "url_titolo": "",
+            "url_titolo": "tu-amerai-il-signore-tuo-dio",
             "titolo": "Tu amerai il Signore tuo Dio",
             "autore": "Salvatore Di Blasi",
             "tipologia": "Ingresso",
@@ -701,7 +701,7 @@
             "testo": "<b>Tu amerai il Signore tuo Dio, (cfr. Dt 6)<br>con tutto il cuore, con tutta la tua anima,<br>con tutte le tue forze,<br>tu amerai il prossimo, come te stesso.</b><br><br>Il Signore nostro Dio, (cfr. salmo 90)<br>ci coprirà con la sua ombra,<br>sotto le sue ali troveremo rifugio.<br><br>Fammi conoscere, Signore le tue vie, (cf. salmo 24)<br>insegnami i tuoi sentieri.<br>Guidami nella tua verità e istruiscimi,<br>perché sei tu il Dio della mia salvezza.<br><br>Ricordati, Signore, del tuo amore,<br>della tua fedeltà che è da sempre.<br>Ricordati di me nella tua misericordia,<br>per la tua bontà, Signore.<br><br>Buono e retto è il Signore,<br>la via giusta addita ai peccatori;<br>guida gli umili secondo giustizia,<br>insegna ai poveri le sue vie."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "all-agnello-che-e-stato-immolato",
             "titolo": "All'agnello che è stato immolato",
             "autore": "-",
             "tipologia": "Offertorio, Comunione",
@@ -721,7 +721,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "perche-tu-sei-con-me",
             "titolo": "Perché tu sei con me",
             "autore": "autore 64",
             "tipologia": "Comunione",
@@ -731,7 +731,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "le-mani-alzate",
             "titolo": "Le mani alzate",
             "autore": "autore 65",
             "tipologia": "Offertorio",
@@ -741,7 +741,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "accostiamoci-tutti-all-altar",
             "titolo": "Accostiamoci tutti all'altar",
             "autore": "Francisco Palazòn, Emilio Pascual",
             "tipologia": "Comunione",
@@ -751,17 +751,17 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "regina-caeli",
             "titolo": "Regina caeli",
             "autore": "Gregoriano",
             "tipologia": "Finale",
             "tempo": "Pasqua",
             "ascolta": "https://www.youtube.com/watch?v=JGS5v-M5hc0",
             "download_link": "../../db/canti/regina_caeli.pdf",
-            "testo": "Regína caeli laetáre, allelúia.<br>Quia quem merúisti portáre, allelúia.<br>Resurréxit, sicut dixit, allelúia.<br>Ora pro nobis Deum, allelúia.<br>Regina dei cieli, rallegrati, alleluia.<br>Cristo, che hai portato nel grembo, alleluia,<br>è risorto, come aveva promesso, alleluia.<br>Prega il Signore per noi, alleluia."
+            "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "sei-luce-splendida",
             "titolo": "Sei luce splendida",
             "autore": "Daniele Semprini",
             "tipologia": "Accensione candela",
@@ -780,7 +780,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "tu-quando-verrai",
             "titolo": "Tu quando verrai",
             "autore": "",
             "tipologia": "Ingresso, Offertorio, Comunione",
@@ -790,7 +790,7 @@
             "testo": "Tu, quando verrai, Signore Gesù,<br>quel giorno sarai un sole per noi.<br>Un libero canto da noi nascerà<br>e come una danza il cielo sarà.<br><br>Tu, quando verrai, Signore Gesù,<br>insieme vorrai far festa con noi.<br>E senza tramonto la festa sarà,<br>perché finalmente saremo con te.<br><br>Tu, quando verrai, Signore Gesù,<br>per sempre dirai: \"Gioite con me!\".<br>Noi ora sappiamo che il Regno verrà:<br>nel breve passaggio viviamo di te."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "astro-del-ciel",
             "titolo": "Astro del ciel",
             "autore": "Franz Xaver Gruber",
             "tipologia": "Offertorio, Comunione",
@@ -800,7 +800,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "adro-a-vederla-un-di",
             "titolo": "Andrò a vederla un dì",
             "autore": "",
             "tipologia": "Finale",
@@ -810,7 +810,7 @@
             "testo": "Andrò a vederla un dì,<br>in cielo patria mia, <br>andrò a veder Maria, <br>mia gioia e mio amor. R.<br><br<b>Al cielo, al cielo, al ciel!<br>Andrò a vederla un dì. </b>x2<br><br> Andrò a vederla un dì, <br>è il grido di speranza, <br>che infondemi costanza <br>nel viaggio e fra i dolor. R.<br><br>Andrò a vederla un dì, <br>lasciando questo esilio; <br>le poserò qual figlio <br>il capo sopra il cuor. R.<br><br>Andrò a vederla un dì, <br>le andrò vicino al trono, <br>ad ottenere in dono <br>un serto di splendor. R."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "inni-e-canti",
             "titolo": "Inni e canti",
             "autore": "",
             "tipologia": "",
@@ -820,7 +820,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "fratello-sole-sorella-luna",
             "titolo": "Fratello sole, sorella luna",
             "autore": "Ortolani",
             "tipologia": "Comunione",
@@ -830,7 +830,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "il-signore-e-la-mia-salvezza",
             "titolo": "Il Signore è la mia salvezza",
             "autore": "Belloli",
             "tipologia": "Ingresso",
@@ -840,7 +840,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "dell-aurora-tu-sorgi-piu-bella",
             "titolo": "Dell'aurora Tu sorgi più bella",
             "autore": "Compagnia Aquero",
             "tipologia": "Finale",
@@ -850,7 +850,7 @@
             "testo": "Dell'aurora tu sorgi più bella<br>coi tuoi raggi fai lieta la terra<br>e fra gli astri che il cielo rinserra<br>non v'è stella più bella di te.<br><br><b>Bella tu sei qual sole,<br>bianca più della Luna<br>e le stelle più belle,<br>non son belle al par di te.<br>Bella tu sei qual sole,<br>bianca più della Luna<br>e le stelle più belle,<br>non son belle al par di te.</b><br><br>Gli occhi tuoi son più belli del mare,<br>la tua fronte ha il colore del giglio,<br>le tue gote baciate dal Figlio<br>son due rose e le labbra son fior. R.<br><br>Delle perle tu passi l'incanto,<br>la bellezza tu vinci dei fiori,<br>tu dell'iride eclissi i colori,<br>il tuo viso rapisce il Signor. R.<br><br>Ti incoronano dodici stelle,<br>della luna si incurva l'argento;<br>ai tuoi piè spiega l'alito il vento,<br>il tuo manto ha il colore del mar. R."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "t-adoriam-ostia-divina",
             "titolo": "T'adoriam, Ostia divina",
             "autore": "Caruana",
             "tipologia": "",
@@ -860,7 +860,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "mira-il-tuo-popolo",
             "titolo": "Mira il tuo popolo",
             "autore": "Picchi",
             "tipologia": "Finale",
@@ -870,7 +870,7 @@
             "testo": "Mira il tuo popolo, o bella Signora,<br><i>che pien di giubilo oggi t'onora, x2</i><br>anch'io festevole corro ai tuoi pie':<br><i>o santa Vergine, prega per me.</i> x2<br><br>Il pietosissimo tuo dolce cuore,<br><i>egl'è rifugio al peccatore, x2</i><br>tesori e grazie racchiude in sé:<br><i>o santa Vergine, prega per me.</i> x2<br><br>In questa misera valle infelice,<br><i>tutti Ti invocano Soccorritrice, x2</i><br>questo bel titolo conviene a te:<br><i>o santa Vergine, prega per me.</i> x2<br><br>Del vasto oceano propizia stella,<br><i>ti vedo splendere sempre più bella; x2</i><br>al porto guidami per tua mercé:<br><i>o santa Vergine, prega per me.</i> x2<br><br>Pietosa mostrati con l'alma mia,<br><i>Madre dei miseri, santa Maria; x2</i><br>madre più tenera di te non v'è:<br><i>o santa Vergine, prega per me.</i> x2<br><br>A me rivolgiti con dolce viso,<br><i>Regina amabile del paradiso;x2</i><br>Te potentissima l'Eterno fe':<br><i>o santa Vergine, prega per me.</i> x2"
         },
         {
-            "url_titolo": "",
+            "url_titolo": "il-signore-e-vicino",
             "titolo": "Il signore è vicino",
             "autore": "Daniele Semprini",
             "tipologia": "Ingresso",
@@ -880,7 +880,7 @@
             "testo": "<b>Il Signore è vicino,<br>rallegratevi in lui, Alleluia!<br>Rallegratevi, rallegratevi,<br>rallegratevi, alleluia!</b><br><br>Si rallegri il deserto<br>e gioisca la terra:<br>spunterà come un fiore<br>la venuta di Dio.<br>Si rallegrino gli umili<br>e smarriti di cuore:<br>il Signore è potente<br>lui che fa grandi cose. R.<br><br>Si rallegrino i poveri<br>e con loro gli oppressi:<br>viene un giorno di grazia,<br>di vittoria e giustizia.<br>Si rallegri chi ha fame<br>e chi ha sete di Dio:<br>una mensa abbondante<br>gli prepara il Signore. R.<br><br>Si rallegri chi è cieco<br>si apriranno i suoi occhi<br>ed il muto sia pronto<br>a cantare di gioia.<br>Si rallegri chi è sordo<br>udirà la notizia<br>e lo zoppo stia in piedi<br>danzerà per la festa. R.<br><br>Si rallegrino i giovani<br>e gli anziani e i bambini:<br>si daranno tutti la mano<br>annunciando la pace.<br>Si rallegri il credente<br>e ogni uomo che attende:<br>la salvezza è vicina<br>a chi cerca il Signore."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "cielo-nuovo",
             "titolo": "Cielo nuovo",
             "autore": "Giuseppe Libero",
             "tipologia": "Offertorio, Finale",
@@ -890,7 +890,7 @@
             "testo": "<b>Cielo nuovo è la tua parola nuova terra la tua carità!<br>Agnello immolato e vittorioso, Cristo Gesù, Signore che rinnovi l'universo.</b><br><br>Destati dal sonno che ti opprime, apri gli occhi sulla povertà<br>Voce del mio Spirito che dice: \"ti ho sposata nella fedeltà”. R.<br><br>Voltati e guarda la mia voce, nessun uomo dice verità!<br>Vedi che germoglia proprio adesso questa luce nell'oscurità. R.<br><br>Apri gli orizzonti del tuo cuore al vangelo della carità: sciolti sono i vincoli di morte<br>Io farò di te la mia città. R.<br><br>Lascia la dimora di tuo padre, corri incontro all'umanità<br>Fascia le ferite degli oppressi: la tua veste splendida sarà. R.<br><br>Resta nell'amore del tuo Sposo, la mia forza non ti lascerà<br>Noi faremo insieme un mondo nuovo: ciò che muore presto rivivrà. R.<br><br>"
         },
         {
-            "url_titolo": "",
+            "url_titolo": "frutto-della-nostra-terra",
             "titolo": "Frutto della nostra terra",
             "autore": "autore 81",
             "tipologia": "Offertorio",
@@ -899,7 +899,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "nel-sole-dell-aurora",
             "titolo": "Nel sole dell'aurora",
             "autore": "autore 82",
             "tipologia": "Finale",
@@ -908,7 +908,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "ti-ringrazio-o-mio-signore",
             "titolo": "Ti ringrazio, o mio Signore",
             "autore": "autore 83",
             "tipologia": "Comunione",
@@ -917,7 +917,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "inno-d-amore",
             "titolo": "Inno d'Amore",
             "autore": "autore 84",
             "tipologia": "Ingresso",
@@ -926,7 +926,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "vi-daro-un-cuore-nuovo",
             "titolo": "Vi darò un cuore nuovo",
             "autore": "autore 85",
             "tipologia": "",
@@ -935,7 +935,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "beati-quelli-che-ascoltano",
             "titolo": "Beati quelli che ascoltano",
             "autore": "autore 86",
             "tipologia": "Offertorio, Comunione",
@@ -944,7 +944,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "beatitudini",
             "titolo": "Beatitudini",
             "autore": "Marco Frisina",
             "tipologia": "Comunione",
@@ -953,7 +953,7 @@
             "testo": "Beati, beati i poveri perché di essi è il Regno<br>Beati, beati gli afflitti perché sarann consolati<br><br>Chi vuole seguir la mia strada rinneghi sé stesso e mi segua<br>Accolga ogni giorno la croce che salva e redime ogni uomo<br><br>Beati, beati i vinti, erediteranno la terra<br>Beato chi ha fame della giustizia perché sarà certo saziato<br><br>Il grido del povero sale al Padre che vede ogni cosa<br>Il Suo orecchio ascolta, ricorda il dolore del misero<br><br>Beati i misericordiosi perché troveranno il perdono<br>Beato ogni uomo dal cuore puro perché vedrà il suo Signore<br>Beato chi porta la pace sarà vero figlio di Dio<br><br>Vi lascio la pace nel cuore che dona una luce di gioia<br>Beati i perseguitati a causa della mia giustizia<br>Gioisca e esulti chi spera in Me perché canterà la nostra gioia"
         },
         {
-            "url_titolo": "",
+            "url_titolo": "vieni-ancora-gesu",
             "titolo": "Vieni ancora, Gesù",
             "autore": "Roland Patzleiner",
             "tipologia": "Accensione candela",
@@ -962,7 +962,7 @@
             "testo": "Vieni ancora, Gesù,<br>sulle strade del mondo:<br>nella notte sarai<br>una stella per noi.<br><br><b>Ti preghiamo, Gesù<br>vieni ancora tra noi.<br>Tu la luce sarai <br>e il giorno verrà.</b><br><br>Vieni ancora, Gesù<br>sulle vie dei cuori:<br>nell 'inverno sarai <br>una fiamma per noi. R.<br><br>Vieni ancora, Gesù,<br>sui sentieri del male:<br>nel desero sarai<br>nuova vita per noi. R.<br><br>"
         },
         {
-            "url_titolo": "",
+            "url_titolo": "symbolum-77",
             "titolo": "Symbolum 77",
             "autore": "autore 88",
             "tipologia": "Comunione",
@@ -971,7 +971,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "dio-si-e-fatto-come-noi",
             "titolo": "Dio si è fatto come noi",
             "autore": "autore 89",
             "tipologia": "Ingresso, Offertorio, Comunione",
@@ -980,7 +980,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "ecco-quel-che-abbiamo",
             "titolo": "Ecco quel che abbiamo",
             "autore": "autore 90",
             "tipologia": "Offertorio",
@@ -989,7 +989,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "credo-in-te-signore",
             "titolo": "Credo in te Signore",
             "autore": "autore 91",
             "tipologia": "Comunione",
@@ -998,7 +998,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "pane-del-cielo",
             "titolo": "Pane del Cielo",
             "autore": "autore 92",
             "tipologia": "Comunione",
@@ -1007,7 +1007,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "salve-regina",
             "titolo": "Salve Regina",
             "autore": "autore 93",
             "tipologia": "Finale",
@@ -1016,7 +1016,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "e-bello-lodarti",
             "titolo": "E' bello lodarti",
             "autore": "autore 94",
             "tipologia": "Ingresso",
@@ -1025,7 +1025,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "o-cieli-piovete-dall-alto",
             "titolo": "O cieli piovete dall'alto",
             "autore": "Amadei",
             "tipologia": "Ingresso",
@@ -1034,7 +1034,7 @@
             "testo": "<b>O cieli, piovete dall'alto,<br>o nubi, mandateci il Santo.<br>O terra, apriti, o terra,<br>e germina il Salvatore!</b><br><br>Siamo il deserto, siamo l'arsura:<br>Marànatha, marànatha<br>Siamo il vento, nessuno ci ode:<br>Marànatha, marànatha. R.<br><br>Siamo le tenebre, nessuno ci guida:<br>Marànatha, marànatha<br>Siam le catene, nessuno ci scioglie:<br>Marànatha, marànatha. R.<br><br>Siamo il freddo, nessuno ci copre:<br>Marànatha, marànatha<br>Siamo la fame, nessuno ci nutre:<br>Marànatha, marànatha. R.<br><br>Siamo le lacrime, nessuno ci asciuga:<br>Marànatha, marànatha<br>Siamo il dolore, nessuno ci guarda:<br>Marànatha, marànatha. R.<br><br>"
         },
         {
-            "url_titolo": "",
+            "url_titolo": "vieni-spirito-d-amore",
             "titolo": "Vieni Spirito d'Amore",
             "autore": "autore 96",
             "tipologia": "Ingresso",
@@ -1043,7 +1043,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "osanna-al-figlio-di-david",
             "titolo": "Osanna al figlio di David",
             "autore": "autore 98",
             "tipologia": "Ingresso",
@@ -1052,7 +1052,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "se-qualcuno-ha-dei-beni",
             "titolo": "Se qualcuno ha dei beni",
             "autore": "autore 99",
             "tipologia": "Offertorio",
@@ -1061,7 +1061,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "in-notte-placida",
             "titolo": "In notte placida",
             "autore": "autore 100",
             "tipologia": "Ingresso, Offertorio, Comunione",
@@ -1070,7 +1070,7 @@
             "testo": "In notte placida, per muto sentier,<br>dai campi del ciel è discese l'Amor,<br>all'alme fedeli il Redentor!<br>Nell'aura è il palpito d'un grande mister:<br>del nuovo Israel è nato il Signor,<br>il fiore più bello dei nostri fior!<br><br>Cantate, o popoli, gloria all'Altissimo<br>l'animo aprite a speranza ed amor!<br><br>Se l'aura è gelida, se fosco è il ciel,<br>oh, vieni al mio cuore, vieni a posar,<br>ti vò col mio amore riscaldar.<br>Se il fieno è rigido, se il vento è crudel,<br>un cuore che t'ama voglio a Te dar,<br>un cuor che Te brama, Gesù cullar."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "madre-mia-bellissima",
             "titolo": "Madre mia bellissima",
             "autore": "Giosy Cento",
             "tipologia": "Comunione",
@@ -1079,7 +1079,7 @@
             "testo": "Madre mia bellissima<br>Tu che stringi un figlio a te<br>E in lui abbracci noi<br>Piena sei di grazia<br><br><b>R. Prega insieme a noi, tu Immacolata<br>Fa' che noi viviamo come il tuo Gesù<br>Prega insieme a noi, tu Immacolata<br>Fa' che noi viviamo come il tuo Gesù</b><br><br>Madre mia dolcissima<br>Dio amore ti creò<br>Cielo azzurro su di noi<br>Piena sei di umanità. R.<br><br>Madre mia bellissima<br>Coi tuoi occhi mi vedrai<br>Nel mio cuore leggerai<br>Il sorriso tornerà. R.<br><br>Madre sei per tutti noi<br>I problemi sentirai<br>A Gesù li porterai<br>E più forti ci farai. R.<br><br>"
         },
         {
-            "url_titolo": "",
+            "url_titolo": "il-pane-del-cammino",
             "titolo": "Il pane del cammino",
             "autore": "autore 102",
             "tipologia": "Comunione",
@@ -1088,7 +1088,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "immacolata-vergine-bella",
             "titolo": "Immacolata vergine bella",
             "autore": "Pietro Panzetti",
             "tipologia": "Finale",
@@ -1098,7 +1098,7 @@
             "testo": "Immacolata, Vergine bella,<br>di nostra vita Tu sei la stella.<br>Fra le tempeste deh! guida il cuore,<br>di chi t'invoca Madre d'Amore.<br><br>Siam peccatori, ma figli tuoi:<br>Immacolata prega per noi.<br><br>La tua preghiera onnipotente,<br>o dolce mamma, tutta clemente;<br>a Gesù buono deh! tu ci guida,<br>accogli il cuore che in te confida.<br><br>Tu che nel cielo siedi Regina<br>a noi pietosa lo sguardo inchina:<br>pel divin Figlio che stringi al petto<br>rendici degni del tuo affetto."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "vergine-madre",
             "titolo": "Vergine madre",
             "autore": "Fiorella Schermidori",
             "tipologia": "Ingresso",
@@ -1118,7 +1118,7 @@
             "testo": "<b>RIT. DAL PROFONDO A TE GRIDO, SIGNORE,<br>DAMMI ASCOLTO MIO DIO,<br>PORGI ATTENTI GLI ORECCHI AL MIO SUPPLICE GRIDO, <br>O SIGNORE.</b><br><br>Se le colpe ricordi, Signore,<br>chi potrà starti dinanzi;<br>ma presso Te si trova il perdono,<br>perché a Te si ritorni. RIT.<br><br>Io confido, Signore, in Te,<br>io spero nella tua Parola,<br>così t'attende l'anima mia<br>più che le sentinelle l'alba. RIT.<br><br>Israele attende il Signore<br>da Lui la misericordia.<br>Egli redimerà Israele<br>da tutte le sue colpe. RIT."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "sei-tu-la-nostra-pace",
             "titolo": "Sei tu la nostra pace",
             "autore": "Fiorella Schermidori, Cecilia Stiz",
             "tipologia": "Comunione",
@@ -1128,7 +1128,7 @@
             "testo": "<b>Rit.: Shalom, shalom, sei tu, Gesù, la nostra pace la riconciliazione.</b><br><br>Cristo, vera pace, riconciliazione,<br>atteso dalle genti, Salvatore.<br>Cristo, sei venuto ad annunziare pace:<br>a chi è lontano, e pace a chi è vicino.<br>Gesù Maestro, noi crediamo in te, ti ringraziamo. R.<br><br>Cristo, via sicura che conduce al Padre,<br>al pellegrino, meta certa sei,<br>Cristo, verità che il Padre ci rivela,<br>sei Verbo eterno il volto dell'Amore.<br>Gesù Maestro, noi crediamo in te, ti ringraziamo. R.<br><br>Cristo, vita vera, pane del cammino,<br>che ogni nostra attesa può saziare.<br>Cristo, acqua viva per la nostra sete,<br>ristoro sei per chi ricorre a te.<br>Gesù Maestro, noi crediamo in te, ti ringraziamo. R.<br><br>Cristo, buon Pastore, eterno sacerdote<br>sei mediatore per l'umanità.<br>Cristo, pegno eterno della nostra gloria,<br>felicità che mai tramonterà. Gesù Maestro, noi crediamo in te, ti ringraziamo. R."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "te-deum",
             "titolo": "Te Deum - Noi ti lodiamo Dio",
             "autore": "-",
             "tipologia": "-",
@@ -1138,7 +1138,7 @@
             "testo": "Noi ti lodi<u><b>a</u></b>mo, Dio * <br>ti proclami<u><b>a</u></b>mo Signore.<br> O et<u><b>e</u></b>rno Padre, * <br>tutta la terr<u><b>a</u></b> ti adora. <br><br>A te cant<u><b>a</u></b>no gli angeli * <br>e tutte le pot<u><b>e</u></b>nze dei cieli: <br>Santo, S<u><b>a</u></b>nto, Santo * <br>il Signore Dio d<u><b>e</u></b>ll'universo.<br> <br>I cieli <u><b>e</u></b> la terra * <br>sono pieni d<u><b><b>e</u></b></b>lla tua gloria. <br>Ti acclama il coro d<u><b>e</u></b>gli apostoli * <br>e la candida schi<u><b>e</u></b>ra dei martiri; <br><br>le voci dei profeti si uniscono nell<u><b>a</u></b> tua lode; * <br>la santa Chiesa proclam<u><b>a</u></b> la tua gloria, <br>adora il tuo un<u><b>i</u></b>co figlio, * <br>e lo Spirito S<u><b>a</u></b>nto Paraclito. <br><br>O Cristo, re d<u><b>e</u></b>lla gloria, * <br>eterno F<u><b>i</u></b>glio del Padre, <br>tu nascesti dalla Verg<u><b>i</u></b>ne Madre * <br>per la salv<u><b>e</u></b>zza dell'uomo. <br><br>Vincitore d<u><b>e</u></b>lla morte, * <br>hai aperto ai credenti il r<u><b>e</u></b>gno dei cieli. <br>Tu siedi alla destra di Dio, nella glori<u><b>a</u></b> del Padre. * <br>Verrai a giudicare il mondo alla f<u><b>i</u></b>ne dei tempi. <br><br>Soccorri i tuoi figl<u><b>i</u></b>, Signore, * <br>che hai redento col tuo s<u><b>a</u></b>ngue prezioso. <br>Accoglici nella tu<u><b>a</u></b> gloria * <br>nell'assembl<u><b>e</u></b>a dei santi. <br><br>Salva il tuo popol<u><b>o</u></b>, Signore, * <br>guida e prot<u><b>e</u></b>ggi i tuoi figli. <br>Ogni giorno ti ben<u><b>e</u></b>diciamo, * <br>lodiamo il tuo n<u><b>o</u></b>me per sempre. <br><br>Degnati ogg<u><b>i</u></b>, Signore, * <br>di custodirci s<u><b>e</u></b>nza peccato. <br>Sia sempre con noi la tua mis<u><b>e</u></b>ricordia: * <br>in te abbi<u><b>a</u></b>mo sperato. <br><br>Pietà di n<u><b>o</u></b>i, Signore, * <br>pi<u><b>e</u></b>tà di noi. <br>Tu sei la nostr<u><b>e</u></b> speranza, * <br>non saremo confus<u><b>i</u></b> in eterno.<br><br><br><h2>TE  DEUM</h2>Te Deum laudámus: * te Dóminum confitémur. <br>Te ætérnum Patrem, * omnis terra venerátur. <br>Tibi omnes ángeli, * <br>tibi cæli et univérsæ potestátes: <br>tibi chérubim et séraphim * <br>incessábili voce proclamant: <br><br>Sanctus, * Sanctus, * Sanctus * <br>Dóminus Deus Sábaoth. <br>Pleni sunt cæli et terra * maiestátis glóriæ tuae. <br>Te gloriósus * Apostolórum chorus, <br>te prophetárum * laudábilis númerus, <br>te mártyrum candidátus * laudat exércitus.<br> Te per orbem terrárum * <br>sancta confitétur Ecclésia, <br>Patrem * imménsæ maiestátis; <br>venerándum tuum verum * et únicum Fílium; <br>Sanctum quoque * Paráclitum Spíritum. <br><br>Tu rex glóriæ, * Christe. <br>Tu Patris * sempitérnus es Filius. <br>Tu, ad liberándum susceptúrus hóminem, * <br>non horruísti Virginis úterum. <br>Tu, devícto mortis acúleo, * <br>aperuísti credéntibus regna cælórum. <br>Tu ad déxteram Dei sedes, * in glória Patris.<br> Iudex créderis * esse ventúrus. <br>Te ergo, quæsumus, tuis fámulis súbveni, * <br>quos pretióso sánguine redemísti. <br>ætérna fac cum sanctis tuis * in glória numerári. <br><br>  Salvum fac pópulum tuum, Dómine, * <br>et bénedic hereditáti tuæ. <br>Et rege eos, * et extólle illos usque in ætérnum. <br>Per síngulos dies * benedícimus te; <br>et laudámus nomen tuum in sæculum, * <br>et in sæculum sæculi. <br>Dignáre, Dómine, die isto * <br>sine peccáto nos custodíre. <br>Miserére nostri, Dómine, * miserére nostri. <br>Fiat misericórdia tua, Dómine, super nos, * <br>quemádmodum sperávimus in te. <br>In te, Dómine, sperávi: * <br>non confúndar in ætérnum."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "come-tu-mi-vuoi",
             "titolo": "Come tu mi vuoi",
             "autore": "autore 105",
             "tipologia": "",
@@ -1147,7 +1147,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "resta-con-noi-signore-la-sera",
             "titolo": "Resta con noi Signore la sera",
             "autore": "autore 107",
             "tipologia": "Comunione",
@@ -1156,7 +1156,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "andate-per-le-strade",
             "titolo": "Andate per le strade",
             "autore": "autore 108",
             "tipologia": "Finale",
@@ -1165,7 +1165,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "gloria-a-te",
             "titolo": "Gloria a te",
             "autore": "autore 109",
             "tipologia": "Finale",
@@ -1174,7 +1174,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "davanti-al-re",
             "titolo": "Davanti al Re",
             "autore": "autore 110",
             "tipologia": "Adorazione",
@@ -1183,7 +1183,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "te-lodiamo-trinita",
             "titolo": "Te lodiamo Trinità",
             "autore": "autore 111",
             "tipologia": "Adorazione",
@@ -1192,7 +1192,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "signore-da-chi-andremo",
             "titolo": "Signore, da chi andremo",
             "autore": "-",
             "tipologia": "Comunione",
@@ -1201,7 +1201,7 @@
             "testo": "-"
         },
         {
-            "url_titolo": "",
+            "url_titolo": "come-un-fiore",
             "titolo": "Come un fiore",
             "autore": "Stefano Varnavà",
             "tipologia": "Comunione",
@@ -1211,7 +1211,7 @@
             "testo": "Come un fiore della natura<br>Tutta vera davanti a Dio<br>Luminosa come luna tu sei,<br>nella luce del tuo Dio.<br><br>O Madonna, col tuo Bambino <br>Vegli attenta ogni piccino<br>Che nel mondo viene, a ricordar<br>Di Tuo Figlio la bontà.<br><br>O Madonna: \"Ave Maria\"<br>È preghiera di chi ti ama,<br>che ripete quel saluto che a Te<br>un Arcangelo portò.<br><br>Per chi soffre, Donna pietosa<br>Per chi attende sei la speranza:<br>chi ti chiama presto incontrerà<br>un tuo sogno di bontà."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "ti-ringrazio",
             "titolo": "Ti ringrazio",
             "autore": "autore 114",
             "tipologia": "Comunione",
@@ -1220,7 +1220,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "pange-lingua",
             "titolo": "Pange lingua",
             "autore": "autore 115",
             "tipologia": "Adorazione",
@@ -1229,7 +1229,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "alleluia-lodate-il-signore",
             "titolo": "Alleluia lodate il Signore",
             "autore": "autore 116",
             "tipologia": "Alleluia",
@@ -1238,7 +1238,7 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "seti-tu-signore-il-pane",
             "titolo": "Sei tu Signore il pane",
             "autore": "George Kirbye",
             "tipologia": "Comunione",
@@ -1247,7 +1247,7 @@
             "testo": "Sei tu, Signore, il pane, tu cibo sei per noi<br>Risorto a vita nuova, sei vivo in mezzo a noi.<br><br>Nell'ultima sua cena Gesù si dona ai suoi:<br>\"Prendete pane e vino, la vita mia per voi\".<br><br>\"Mangiate questo pane: chi crede in me vivrà.<br>Chi beve il vino nuovo con me risorgerà\".<br><br>È Cristo il pane vero, diviso qui fra noi:<br>formiamo un solo corpo e Dio sarà con noi.<br><br>Se porti la sua croce, in lui tu regnerai.<br>Se muori unito a Cristo, con lui rinascerai.<br><br>Verranno i cieli nuovi, la terra fiorirà.<br>Vivremo da fratelli: la Chiesa è carità."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "guarda-questa-offerta",
             "titolo": "Guada questa offerta",
             "autore": "autore 118",
             "tipologia": "Offertorio",
@@ -1265,7 +1265,7 @@
             "testo": "<b>Il Signore è il mio pastore,<br>non manco di nulla.<br>Il Signore è il mio pastore,<br>non manco di nulla.</b><br><br>Su pascoli erbosi mi fa riposare,<br>ad acque tranq uille mi conduce. R.<br><br>Mi guida e rinfranca nel giusto cammino<br>per amore del suo santo nome. R.<br><br>Se dovessi andare in valle oscura<br>non potrò temere alcun male. R.<br><br>Perché, o Signore, tu con me sei sempre,<br>col bastone e il vincastro mi dai pace. R.<br><br>Per me tu prepari una mensa<br>davanti agli occhi dei nemici. R.<br><br>Cospargi di olio il mio capo,<br>di gioia trabocca il mio calice. R.<br><br>Felicità e grazia mi saranno compagne<br>per t utti i g iorni della vita. R.<br><br>Signore, abiterò nella tua casa<br>per la lunga distesa dei giorni. R."
         },
         {
-            "url_titolo": "",
+            "url_titolo": "te-al-centro-del-mio-cuore",
             "titolo": "Te al centro del mio cuore",
             "autore": "autore 120",
             "tipologia": "Comunione",
@@ -1273,7 +1273,7 @@
             "download_link": "../../db/canti/"
         },
         {
-            "url_titolo": "",
+            "url_titolo": "ave-maria-piena-di-grazia",
             "titolo": "Ave Maria piena di grazia",
             "autore": "Sconosciuto",
             "tipologia": "Ingresso",
@@ -1293,14 +1293,14 @@
             "testo": ""
         },
         {
-            "url_titolo": "",
+            "url_titolo": "salve-dolce-vergine",
             "titolo": "Salve Dolce Vergine",
             "autore": "Marco Frisina",
             "tipologia": "Ingresso, Offertorio, Comunione",
             "tempo": "Mariano",
             "ascolta": "https://www.youtube.com/watch?v=lNjtzdjQIzA",
             "download_link": "../../db/canti/Salve Dolce Vergine.pdf",
-            "testo": "Salve, o dolce Vergine,<br>salve, o dolce  Madre,<br>in Te esulta tutta la terra<br>e i cori degli angeli.<br><br>Tempio santo del Signore,<br>gloria delle vergini,<br>Tu giardino del Paradiso,<br>soavissimo fiore.<br><br>Tu sei trono altissimo,<br>Tu altar purissimo,<br>in te esulta, o piena di grazia,<br>tutta la creazione.<br><br>Paradiso mistico,<br>fonte sigillata,<br>il Signore in Te germoglia<br>l'albero della vita.<br><br>O Sovrana semplice, <br>o Potente umile,<br>apri a noi le porte del cielo, <br>dona a noi la luce.<br><br>Amen."
+            "testo": "Salve, o dolce Vergine,<br>salve, o dolce Madre,<br>in Te esulta tutta la terra<br>e i cori degli angeli.<br><br>Tempio santo del Signore,<br>gloria delle vergini,<br>Tu giardino del Paradiso,<br>soavissimo fiore.<br><br>Tu sei trono altissimo,<br>Tu altar purissimo,<br>in te esulta, o piena di grazia,<br>tutta la creazione.<br><br>Paradiso mistico,<br>fonte sigillata,<br>il Signore in Te germoglia<br>l'albero della vita.<br><br>O Sovrana semplice, <br>o Potente umile,<br>apri a noi le porte del cielo, <br>dona a noi la luce.<br><br>Amen."
         }
     ]
 }
